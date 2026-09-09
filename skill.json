@@ -1,0 +1,13 @@
+{
+  "name": "genpark-haversine-spherical-geodesic-distance-skill",
+  "version": "1.0.0",
+  "description": "Haversine great-circle navigation formula computing exact geodesic surface distances and initial bearing angles on planetary spheres.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "haversine-formula",
+    "spherical-geometry",
+    "geodesic-distance",
+    "spatial-gis"
+  ]
+}
